@@ -13,7 +13,7 @@ Kako je to vplivalo na cene dobrin, ali se je poraba določenih dobrin s časom 
 Ali se je potrošnja gospodinjstev povečala za določene dobrine, zmanjšala glede na količino uvoza, izvoza v nekem letu?
 
 
-Pogledali bomo, katera podjetja oziroma industrije so čež leta uvozila, izvozila
+Pogledali bomo, katera podjetja oziroma industrije so čez leta uvozila, izvozila
 več dobrin.
 
 
