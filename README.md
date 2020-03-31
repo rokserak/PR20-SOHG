@@ -1,7 +1,16 @@
 # Vmesno poročilo
 
-![alt text](https://cdn.rawgit.com/rokserak/PR20-SOHG/master/grafi/EUvsNEEU.svg "Logo Title Text 1")
+![alt text](https://github.com/rokserak/PR20-SOHG/raw/master/grafi/EUvsNEEU.png "Izvoz EU vs ne-EU")
 
-<img src="https://raw.githubusercontent.com/rokserak/PR20-SOHG/master/grafi/EUvsNEEU.svg">
-https://cdn.rawgit.com/<repo-owner>/<repo>/<branch>/path/to.svg
+![alt text](https://github.com/rokserak/PR20-SOHG/raw/master/grafi/bolnca%20scatter.png "Poraba bolnica vs ne bolnice za zdravljenje")
+
+![alt text](https://github.com/rokserak/PR20-SOHG/raw/master/grafi/izviz2018.png "Izvoz 2018")
+
+![alt text](https://github.com/rokserak/PR20-SOHG/raw/master/grafi/izvoz_panoge.png "Izvoz po panogah")
+
+![alt text](https://github.com/rokserak/PR20-SOHG/raw/master/grafi/pjaca%20scatter.png "Alkohol vs brezalkoholn")
+
+![alt text](https://github.com/rokserak/PR20-SOHG/raw/master/grafi/tavlk%20gospodinstvo.png "gospodinjstvo")
+
+![alt text](https://github.com/rokserak/PR20-SOHG/raw/master/grafi/uvoz20082018.png "Izvoz 2018")
 
