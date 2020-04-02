@@ -15,6 +15,7 @@ Opis podatkov se nahaja v osnutku. Pri pripravljanju podatkov smo večinoma obdr
 
 Tekom druge faze projekta smo opravili ogromno vizualizacij. Namen tega je seveda, da bi iz ogromno podanih podatkov izluščili kaj zanimivega in uporabnega. S tem smo tudi bolje spoznali naši dve podatkovni zbirki. Zaenkrat smo opravljali vizualizacije za vsako podatkovno zbirko posebej, ker sta precej široki. Tekom razvoja projekta bomo rezultate skušali tudi združiti, da bi prišli do nekaj bolj zanimivih odgovorov. Razlika med podatkovnima zbirkama je v obsegu, in sicer prva pokriva svetovno merilo, medtem ko druga pokriva zgolj Slovenijo. Tudi ta vpliv bomo poizkusili prikazati. Izmed vseh opravljenih vizualizacij smo izluščili nekaj osnovnih in nekaj zanimivejših.
 
+
 #### Vizualizacija 1 (uvoz, izvoz)
 
 Graf prikazuje povprečno število izvozov podjetij znotraj EU in izven EU. Ugotovimo, da države znotraj EU izvozijo več dobrin oz. produktov kot države izven EU. Število izvoza pomeni cena v evrih.
