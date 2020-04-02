@@ -1,6 +1,14 @@
 # Vpliv svetovnega uvoza/izvoza na stroške Slovenskih gospodinjstev
 
+## Skupina
+
+* Rok Šerak
+* Žan Ostrožnik
+* Miha Gošte
+* Gašper Habjan
+
 ## Uvod in problem
+
 Do sedaj smo se večinoma ukvarjali s problemom naše domene. Dosti časa smo posvetili medsebojnemu posvetovanju in razvijanju idej. Naredili smo ogromno vizualizacij naših podatkov. Odločili smo se, da se bomo osredotočili na uvoz in izvoz dobrin v Sloveniji. Pogledali si bomo, kaj se je dogajalo v zadnjih letih, katerih dobrin se je uvozilo, izvozilo več oz. manj. Tekom raziskovanja bomo poizkusili odgovoriti na vprašanje, kako je to vplivalo na cene dobrin in ali se je poraba določenih dobrin s časom povečala oz. zmanjšala. Poizkusili bomo odgovoriti tudi na vprašanje, ali se je potrošnja gospodinjstev povečala za določene dobrine ali zmanjšala glede na količino uvoza oz. izvoza v nekem letu. Pogledali bomo, katera podjetja oziroma industrije so čez leta uvozila oz. izvozila več dobrin.
 
 ## Podatki
