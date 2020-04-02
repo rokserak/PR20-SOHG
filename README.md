@@ -19,6 +19,7 @@ Tekom druge faze projekta smo opravili ogromno vizualizacij. Namen tega je seved
 ### Vizualizacija 1 (uvoz, izvoz)
 
 Graf prikazuje povprečno število izvozov podjetij znotraj EU in izven EU. Ugotovimo, da države znotraj EU izvozijo več dobrin oz. produktov kot države izven EU. Število izvoza pomeni cena v evrih.
+
 ![alt text](https://github.com/rokserak/PR20-SOHG/raw/master/grafi/EUvsNEEU.png "Izvoz EU vs ne-EU")
 
 
