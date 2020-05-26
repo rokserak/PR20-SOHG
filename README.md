@@ -2,7 +2,7 @@
 
 ## Skupina
 
-* Rok Šerak
+* Rok Šerak, vodja
 * Žan Ostrožnik
 * Miha Gošte
 * Gašper Habjan
